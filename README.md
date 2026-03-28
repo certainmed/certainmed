@@ -1,20 +1,43 @@
-<h1 align="center">Hello! My name is Maximus Erick Markell</h1>
-<h3 align="center">I am a junior developer from Indonesia.</h3>
+# Hi, I'm Maximus Erick Markell
 
-- 🌱 I’m currently learning **C++ and C#**
+Physics student at Udayana University with a strong interest in mathematics, coding, and science.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Mathematics**
+## About Me
 
-- 📫 How to reach me **unvermicular@gmail.com**
+- I am a Physics major at Udayana University.
+- I enjoy learning through math, programming, and scientific exploration.
+- I am currently studying machine learning and calculus.
+- I like building knowledge step by step and turning curiosity into skill.
 
-- ⚡ Fun fact **I like mathematics and chemistry a lot...**
+## Interests
 
-<h3 align="left">Connect with me:</h3>
+- Mathematics
+- Coding
+- Science
+- Machine learning
+- Calculus
+
+## Motivation
+
+> "The important thing is not to stop questioning."  
+> - Albert Einstein
+
+I try to keep learning consistently, especially when topics feel difficult. Progress in science and programming comes from curiosity, patience, and practice.
+
+## Contact
+
+- Email: [unvermicular@gmail.com](mailto:unvermicular@gmail.com)
+
+## Connect With Me
+
 <p align="left">
-<a href="https://dev.to/certainmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="certainmed" height="30" width="40" /></a>
-<a href="https://instagram.com/axefloat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axefloat" height="30" width="40" /></a>
-<a href="https://medium.com/@axefloat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@axefloat" height="30" width="40" /></a>
+  <a href="https://dev.to/certainmed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/axefloat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@axefloat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
